@@ -63,7 +63,7 @@ module.exports = {
       );
     } else if (args[0] === "2") {
       {
-        api.setMessageReaction("🥳", event.messageID, (err) => {}, true);
+        api.setMessageReaction("💋", event.messageID, (err) => {}, true);
       }
       const albumOptions = [
         "𝗔𝗲𝘀𝘁𝗵𝗲𝘁𝗶𝗰 𝗩𝗶𝗱𝗲𝗼",
@@ -268,7 +268,7 @@ module.exports = {
     }
   },
   onReply: async function ({ api, event, Reply }) {
-    const admin = "100088513497761";
+    const admin = "61578415994269";
     api.unsendMessage(Reply.messageID);
     if (event.type == "message_reply") {
       const reply = parseInt(event.body);
