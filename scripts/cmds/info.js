@@ -16,22 +16,22 @@ module.exports = {
     const time = new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka' });
 
     const profile = `
-『 𝗔𝗠𝗜𝗧 𝗠𝗔𝗫 ⚡ 』
+『 SAZZAD MAX ⚡ 』
 
-• Name: Amit Max ⚡  
-• Class: Inter 1st  
-• Group: Accounting  
+• Name: Rafi Elan Sazzad ⚡  
+• Class: 6'th Semester diploma Engineering  
+• Group: Power
 • Gender: Male  
-• DOB: 18-05-2006  
-• Religion: Sanatan  
-• Blood: AB+  
-• Height: 5.5 ft  
-• Location: Khoksa, Kushtia  
+• DOB: xx - xx - xx 
+• Religion: Muslim
+• Blood: O+
+• Height: 5.8 fit  
+• Location: Panir'tank, Dinajpur  
 • Hobby: Flirting  
 • Status: Single  
-• FB: fb.com/share/1564YX2VyT/  
-• IG: instagram.com/amitmax44  
-• Email: maxamit279@gmail.com  
+• FB:  https://www.facebook.com/profile.php?id=61578415994269
+• IG: instagram.xx- 
+• Email: sazzadmax100@gmail.com  
 
 ⏰ Time: ${time}`;
 
